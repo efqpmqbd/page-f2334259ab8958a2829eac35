@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1e2384bb38872f2603aaa532",
+  "owner": "efqpmqbd",
+  "repo": "page-f2334259ab8958a2829eac35",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f2334259ab8958a2829eac35",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "104ae530edebb9e25539edbee1fafa8f14382e23129c1ad8a9a5ae5ce941f714",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬机场提供稳定VPN加速服务，支持流媒体解锁和游戏加速等多种功能。立即订阅套餐，下载客户端畅享高速网络。",
+          "AI_DESCRIPTION": "快柠檬机场提供稳定VPN加速服务，支持流媒体解锁和游戏加速等多种功能。立即订阅套餐，下载客户端畅享高速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f8f5f2;color:#333;margin:0;padding:0;line-height:1.6}header{background:#fff;padding:1rem 2rem;display:flex;justify-content:space-between;align-items:center;box-shadow:0 2px 4px rgba(0,0,0,.08)}.logo{font-size:1.8rem;font-weight:bold;color:#ff6b6b;text-decoration:none}nav a{margin-left:1.5rem;color:#333;text-decoration:none;font-weight:500}nav a:hover{color:#ff6b6b}.hero{background:linear-gradient(to right,#f8f5f2,#fff);padding:4rem 2rem;text-align:center}.hero h1{font-size:2.8rem;margin-bottom:1rem;color:#333}.hero p{font-size:1.25rem;max-width:600px;margin:0 auto 2rem;color:#555}button{background:#ff6b6b;color:#fff;border:none;padding:12px 32px;font-size:1.1rem;border-radius:4px;cursor:pointer;display:inline-block;text-decoration:none}button:hover{background:#e85c5c}section{padding:3rem 2rem}h2{font-size:2rem;margin-bottom:1.5rem;color:#333}.plans{display:flex;justify-content:center;gap:2rem;flex-wrap:wrap}.plan-card{background:#fff;padding:1.5rem;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,.1);flex:1;min-width:280px;max-width:320px}.plan-card h3{color:#ff6b6b;font-size:1.5rem;margin-bottom:.5rem}.plan-card .price{font-size:1.25rem;font-weight:bold;color:#333;margin-bottom:1rem}.plan-card ul{list-style:none;padding:0}.plan-card li{padding:.5rem 0;display:flex;align-items:flex-start}.plan-card li::before{content:\"✓\";color:#ff6b6b;margin-right:.5rem}.faq{max-width:800px;margin:0 auto}details{background:#fff;margin:1rem 0;border-radius:4px;overflow:hidden;box-shadow:0 2px 4px rgba(0,0,0,.05)}details summary{padding:1rem;font-weight:bold;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center}details summary::-webkit-details-marker{display:none}details[open] summary{background:#f8f5f2}details p{padding:0 1rem 1rem;margin:0;color:#555}@media (max-width:768px){.plans{flex-direction:column}.plan-card{min-width:100%}}</style><header><a href=\"#\" class=\"logo\">快柠檬机场</a><nav><a href=\"#about\">品牌简介</a><a href=\"#scenarios\">使用场景</a><a href=\"#howto\">操作指南</a><a href=\"#plans\">套餐计划</a><a href=\"#faq\">常见问题</a></nav></header><main><section class=\"hero\"><h1>快柠檬机场 VPN 加速器</h1><p>高效稳定网络加速，助力您畅享无障碍上网</p><a href=\"#plans\">立即订阅</a></section><section id=\"about\"><h2>品牌简介</h2><p>快柠檬机场是一款专业的VPN网络加速器，致力于为用户提供安全、高速的网络连接服务。我们通过先进的线路优化技术，帮助用户轻松突破地域限制，保护您的在线隐私。</p></section><section id=\"scenarios\"><h2>使用场景</h2><p>快柠檬机场适用于多种场景：</p><ul><li>• 流媒体解锁：畅享Netflix、YouTube等国际平台内容</li><li>• 游戏加速：减少网络延迟，提升游戏体验</li><li>• 远程办公：稳定连接，确保工作顺畅</li><li>• 隐私保护：加密传输，保障数据安全</li></ul></section><section id=\"howto\"><h2>操作指南</h2><ol><li>访问官网下载客户端</li><li>订阅适合您的套餐</li><li>使用客户端连接节点</li></ol></section><section id=\"plans\"><h2>套餐计划</h2>{{PLANS_HTML}}</section><section id=\"clients\"><h2>合作客户</h2>{{CLIENTS_HTML}}</section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何订阅快柠檬机场？</summary><p>登录官网，选择您的套餐进行订阅，支付完成后即获得订阅凭证，在客户端中使用。</p></details><details><summary>客户端如何下载？</summary><p>在官网首页或导航栏找到“客户端下载”链接，下载适合您操作系统的客户端。</p></details><details><summary>支持哪些设备？</summary><p>快柠檬机场支持多台设备同时在线连接，根据您的套餐规模灵活选择。</p></details><details><summary>如何访问被屏蔽内容？</summary><p>通过快柠檬机场的VPN加速服务，使用合适的套餐即可解锁流媒体和国际网站。</p></details><details><summary>网络质量如何保障？</summary><p>我们采用高效线路优化技术，确保稳定高速的网络连接体验。</p></details></section></main><footer><p>© 快柠檬机场 VPN 加速器 2024</p></footer>",
+          "hash": "24024353b0df117037653fc8e61a5814de7ad520501dcb6157cbf132f8af980c",
+          "seo": {
+            "title": "快柠檬机场 | VPN加速器 机场订阅与客户端下载",
+            "keywords": "快柠檬机场,VPN,加速器,机场订阅,客户端下载",
+            "description": "快柠檬机场提供稳定VPN加速服务，支持流媒体解锁和游戏加速等多种功能。立即订阅套餐，下载客户端畅享高速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "upqok.cn",
+    "host": "home.upqok.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "upqok.cn",
+      "url": "https://upqok.cn/",
+      "label": "E",
+      "apex": "upqok.cn",
+      "kind": null,
+      "identity": "wtbgvfamc/page-c7b8b2e838e65833c901d4bf"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5fd995f604e2537abd84ba19eb4d1138e8f982d16aa35b7675aa1539be706e7d",
+    "sitemap.xml": "49bd57af847eefd3b2b399d7ec1d3bebc46e3a8e1f4783cdfa1857f97e9d3a85",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7ce085b4157c1f241233d83e5442aec814a1acfc3b7cc08bb83e649ba85616d1",
+    "robots.txt": "b3e55adca21da9f80cdefe36b40a70c860b83fd8d65565fb36b51f7f4bd1c1ae",
+    "37ec24e699b15d6bf480efe30913f7e0.txt": "f0b5e7a8330b7f79d1eed70da441b066f2eed848a4916e5c130aabcc81fa838d"
+  },
+  "revision": "196fa3983ef21d81e3b4284af8af21fe2e9d6a2f0e5bbad145b6535e2c8a1b2a"
+}
